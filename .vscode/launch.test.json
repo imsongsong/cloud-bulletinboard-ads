@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "bulletinboard-ads",
+                "projectName": "bulletinboard-ads",
+                "workingDirectory": "c:\\Users\\i076007\\OneDrive - SAP SE\\Desktop\\CF\\cloud-bulletinboard-ads",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "bulletinboard-ads",
+                "projectName": "bulletinboard-ads",
+                "workingDirectory": "c:\\Users\\i076007\\OneDrive - SAP SE\\Desktop\\CF\\cloud-bulletinboard-ads",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
